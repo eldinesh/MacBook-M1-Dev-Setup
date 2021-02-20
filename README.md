@@ -62,3 +62,7 @@ The objective is to disclose the most ideal approach to introduce or utilize the
 | Adobe Photoshop | 🚫 | ✅ |
 | ColorWell | ✅ | 🚫 |
 
+## Contributionc
+Suggestions and PRs are welcome! 🤙 If you want to contribute.
+
+<a href="https://www.buymeacoffee.com/eldinesh" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 40px !important;width: 100px !important;" ></a>
