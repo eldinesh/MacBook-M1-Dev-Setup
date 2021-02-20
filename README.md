@@ -46,11 +46,10 @@ The objective is to disclose the most ideal approach to introduce or utilize the
 
     🚫 Not Working
 
-##Developer Tools🛠
+## Developer Tools🛠
 ---
-
 | Tools | M1 Optimised | Rosetta 2 |
-| ----- | ----------- | --------- |
+| :--- | :----: | :----: |
 | Docker | ⚠️ | ⚠️ |
 | Sandvox | 🚫 | ✅ |
 | MongoDB Compass | 🚫 | ✅ |
@@ -63,4 +62,3 @@ The objective is to disclose the most ideal approach to introduce or utilize the
 | Visual Studio Code | 🚫 | ⚠️ |
 | HomeBrew | ✅ | ✅ |
 | IntelliJ Idea |  ✅ | ✅ |
-|
