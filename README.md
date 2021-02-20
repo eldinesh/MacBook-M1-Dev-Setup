@@ -4,33 +4,21 @@ I was searching for new laptop from last 2 months, for windows laptop. But then 
 
 Overall this computer has been incredible.
 
-- Navigation🧭
-
-    [Introduction]()
-
-    My Mac
-
-    Shell
-
-    Languages
-
-    Package Manager
-
-    DataBases
-
-    CLI Tools
-
-    Web Browsers
-
-    Productivity
-
-    Music
-
-    Video Production
-
-    Photos
-
-    Design
+## Navigation🧭
+<details><summary>
+View
+</summary>
+<ul>
+<li>[Introduction](https://github.com/eldinesh/My-M1-Dev-Setup#introduction-to-use-this-guide)</li>
+<li>[Developer Tools](https://github.com/eldinesh/My-M1-Dev-Setup#developer-tools)</li>
+<li>[Design](https://github.com/eldinesh/My-M1-Dev-Setup#design)</li>
+<li>[Music]()</li>
+<li>[Photos]()</li>
+<li>[Productivity]()</li>
+<li>[Video Production]()</li>
+<li>[Web Browsers]()</li>
+</ul>
+</details>
 
 ## Introduction to use this guide
 I made this manual to effectively see the status of different apparatuses for the new Apple Silicon Mac. I expect this to be a living archive, that gets refreshed as things change.
