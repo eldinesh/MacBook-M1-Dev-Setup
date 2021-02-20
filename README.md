@@ -41,8 +41,6 @@ The objective is to disclose the most ideal approach to introduce or utilize the
 
     ⚠️ Not Stable(Bugs May Occurs)
 
-    ☑️ Rosetta 2
-
     🚫 Not Working
 
 ## Developer Tools🛠
@@ -60,3 +58,19 @@ The objective is to disclose the most ideal approach to introduce or utilize the
 | Visual Studio Code | 🚫 | ⚠️ |
 | HomeBrew | ✅ | ✅ |
 | IntelliJ Idea |  ✅ | ✅ |
+
+## Design🍥
+| Tools | M1 Optimised | Rosetta 2 |
+| :--- | :----: | :----: |
+| PhotoScape X | 🚫 | ✅ |
+| Texpad | 🚫 | ✅ |
+| GNS3 | 🚫 | ⚠️ |
+| Easy Draw | ✅ | - |
+| GIMP | 🚫 | ✅ |
+| Affinity Photo | ✅ | ✅ |
+| Autodesk Fusion 360 | 🚫 | ⚠️ |
+| Adobe XD | ⚠️ | ✅ |
+| Figma | 🚫 | ⚠️ |
+| Adobe Photoshop | 🚫 | ✅ |
+| ColorWell | ✅ | 🚫 |
+
