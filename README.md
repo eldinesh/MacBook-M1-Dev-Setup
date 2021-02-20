@@ -6,9 +6,9 @@ Overall this computer has been incredible.
 
 - Navigation🧭
 
-    My Mac
+    [Introduction]()
 
-    Introduction
+    My Mac
 
     Shell
 
@@ -31,3 +31,21 @@ Overall this computer has been incredible.
     Photos
 
     Design
+
+    ## Introduction to use this guide
+
+    ---
+
+    I made this manual to effectively see the status of different apparatuses for the new Apple Silicon Mac. I expect this to be a living archive, that gets refreshed as things change.
+
+    The objective is to disclose the most ideal approach to introduce or utilize these instruments and which apparatuses you can trust. Toward the beginning of each part, I have made the elites of each tool inside that category group.
+
+    ✅ Native M1 Support
+
+    ⚠️ Native M1 Support, But not Stable
+
+    ☑️ Rosetta 2
+
+    ❕ Rosetta 2, But now Stable
+
+    🚫 Not Working
