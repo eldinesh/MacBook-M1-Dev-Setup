@@ -73,7 +73,20 @@ The objective is to disclose the most ideal approach to introduce or utilize the
 | Spotify | ✅ | ✅ |
 | Adobe Audition | ⚠️ | ✅ |
 
-
+## Video Production🎥
+| Tools | M1 Optimised | Rosetta 2 |
+| :--- | :----: | :----: |
+| IINA | ✅ | ✅ |
+| VLC | ✅ | ✅ |
+| AutoDesk Maya | 🚫 | ✅ |
+| Adobe Premiere Pro | ⚠️ | ✅ |
+| HandBreak | ✅ | 🚫 |
+| OBS Studio | 🚫 | ✅ |
+| iMovie | ✅ | ✅ |
+| Final Cut Pro | ✅ | ✅ |
+| Adobe Character Animation | 🚫 | ✅ |
+| After Effects | 🚫 | ✅ |
+| Blender | ⚠️ | ✅ |
 
 ## Contribution
 Suggestions and PRs are welcome! 🤙 If you want to contribute.
