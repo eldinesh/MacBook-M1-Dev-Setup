@@ -4,6 +4,8 @@ I was searching for new laptop from last 2 months, for windows laptop. But then 
 
 Overall this computer has been incredible.
 
+<img src="https://tidbits.com/uploads/2020/11/M1-summary-card.jpg" alt="MacBook M1 Dev tools" style="height: 40px !important;width: 100px !important;" />
+
 ## Navigation🧭
 <details><summary>
 View
