@@ -55,6 +55,7 @@ The objective is to disclose the most ideal approach to introduce or utilize the
 | Spike | ✅ | ✅ |
 | Tensorflow | ⚠️ | ✅ |
 | Golang | ✅ | ✅ |
+| Slack | ✅ | ✅ |
 
 ## Design🍥
 | Tools | M1 Optimised | Rosetta 2 |
