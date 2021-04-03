@@ -54,6 +54,7 @@ The objective is to disclose the most ideal approach to introduce or utilize the
 | Unity | ⚠️ | ✅ |
 | Spike | ✅ | ✅ |
 | Tensorflow | ⚠️ | ✅ |
+| Golang | ✅ | ✅ |
 
 ## Design🍥
 | Tools | M1 Optimised | Rosetta 2 |
