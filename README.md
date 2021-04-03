@@ -41,7 +41,7 @@ The objective is to disclose the most ideal approach to introduce or utilize the
 | MongoDB Compass | 🚫 | ✅ |
 | Came | ✅ | - |
 | VIM | ✅ | ✅ |
-| MacVim | 🚫 | ✅ |
+| MacVim | ✅ | ✅ |
 | XAMPP | 🚫 | ✅ |
 | Azure Data Studio | - | ✅ |
 | GNS3 | 🚫 | ⚠️ |
