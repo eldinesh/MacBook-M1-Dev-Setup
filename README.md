@@ -53,6 +53,7 @@ The objective is to disclose the most ideal approach to introduce or utilize the
 | GitHub Desktop | 🚫 | ✅ |
 | Unity | ⚠️ | ✅ |
 | Spike | ✅ | ✅ |
+| Tensorflow | ⚠️ | ✅ |
 
 ## Design🍥
 | Tools | M1 Optimised | Rosetta 2 |
