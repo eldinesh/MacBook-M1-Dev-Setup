@@ -45,7 +45,7 @@ The objective is to disclose the most ideal approach to introduce or utilize the
 | XAMPP | 🚫 | ✅ |
 | Azure Data Studio | - | ✅ |
 | GNS3 | 🚫 | ⚠️ |
-| Visual Studio Code | 🚫 | ⚠️ |
+| Visual Studio Code | ✅ | ✅ |
 | HomeBrew | ✅ | ✅ |
 | IntelliJ Idea |  ✅ | ✅ |
 | CLion | ✅ | ✅ |
