@@ -50,6 +50,7 @@ The objective is to disclose the most ideal approach to introduce or utilize the
 | IntelliJ Idea |  ✅ | ✅ |
 | CLion | ✅ | ✅ |
 | XCode | ✅ | ✅ |
+| GitHub Desktop | 🚫 | ✅ |
 
 ## Design🍥
 | Tools | M1 Optimised | Rosetta 2 |
